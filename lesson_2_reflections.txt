@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+When I initialize a repository, it creates a .git subdirectory which contains what is necessary for the repo. I need to do it to be able to utilize  git and version control. 
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+It's different because it is just commits that are about to be saved. It allows you to make sure that you have everything you need before you commit.
