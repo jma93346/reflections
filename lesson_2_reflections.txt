@@ -3,3 +3,19 @@ When I initialize a repository, it creates a .git subdirectory which contains wh
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It's different because it is just commits that are about to be saved. It allows you to make sure that you have everything you need before you commit.
+
+How can you use the staging area to make sure you have one commit per logical change?
+Having a staging area allows you to see the changes that were made to see if it's logical. It allows you to add files until you have the files you need to make a logical commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+Some situations could be if I'm trying something new and want to keep the original idea on a separate branch. Branches allow me to "branch" off if I want to try something new without losing any of my original idea.
+
+How do the diagrams help you visualize the branch structure?
+It helps me to see which commits go to which branch.
+
+What is the result of merging two branches together? Why do we represent in the diagram the way we do?
+The result it being able to merge to features together. We represent in the diagram the way we do to be able to see which commits were added at a certain time. 
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manualls?
+Pros: saves time when nonconflicting merge is trivial. Can concentrate on changes that has conflicts.
+Cons: maybe some codes that were added automatically can cause bugs.
