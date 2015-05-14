@@ -11,3 +11,6 @@ Branches are made to keep in track certain changes/features before merging the b
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 It makes it so you can make changes in your local repo and compare changes with remote repo to help merge branches.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+I would try to use another simple way to share files. An option could be via email or dropbox. The problem would be that it'll be harder to track the changes if there was a mistake that wasn't caught. 
